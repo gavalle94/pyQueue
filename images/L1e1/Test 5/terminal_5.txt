@@ -1,0 +1,2128 @@
+*** Init the first queue (M/M/1) ***
+-- Arrivals parameters --
+Exponential PDF
+Insert the rate: 2
+
+-- Service parameters --
+Exponential PDF
+Insert the rate: 10
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 0 to t1 = 100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 202 (100.0 %) now
+- 202 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 202 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 202 over 202 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/tight_layout.py:225: UserWarning: tight_layout : falling back to Agg renderer
+  warnings.warn("tight_layout : falling back to Agg renderer")
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 100 to t1 = 200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 253 (100.0 %) now
+- 455 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 253 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 253 over 253 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.04
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 455 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 455 over 455 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.04
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 200 to t1 = 300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 235 (100.0 %) now
+- 690 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 235 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 235 over 235 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 690 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 690 over 690 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 300 to t1 = 400
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 242 (100.0 %) now
+- 932 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 242 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 242 over 242 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 932 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 932 over 932 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 400 to t1 = 500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 268 (100.0 %) now
+- 1200 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 268 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 268 over 268 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 1200 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 1200 over 1200 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 500 to t1 = 600
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 233 (100.0 %) now
+- 1433 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 233 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 233 over 233 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 1433 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 1433 over 1433 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 600 to t1 = 700
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 210 (100.0 %) now
+- 1643 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 210 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 210 over 210 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 1643 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 1643 over 1643 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 700 to t1 = 800
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 218 (100.0 %) now
+- 1861 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 218 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 218 over 218 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 1861 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 1861 over 1861 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 800 to t1 = 900
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 290 (100.0 %) now
+- 2151 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 290 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 290 over 290 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 2151 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 2151 over 2151 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 900 to t1 = 1000
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 202 (100.0 %) now
+- 2353 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 202 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 202 over 202 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 2353 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 2353 over 2353 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1000 to t1 = 1100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 195 (100.0 %) now
+- 2548 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 195 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 195 over 195 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 2548 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 2548 over 2548 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1100 to t1 = 1200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 248 (100.0 %) now
+- 2796 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 248 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 248 over 248 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 2796 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 2796 over 2796 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1200 to t1 = 1300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 239 (100.0 %) now
+- 3035 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 239 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 239 over 239 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 3035 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 3035 over 3035 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1300 to t1 = 1400
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 260 (100.0 %) now
+- 3295 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 260 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 260 over 260 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.01
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.02 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 3295 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 3295 over 3295 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1400 to t1 = 1500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 270 (100.0 %) now
+- 3565 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 270 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 270 over 270 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 3565 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 3565 over 3565 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1500 to t1 = 1600
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 258 (100.0 %) now
+- 3823 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 258 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 258 over 258 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 3823 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 3823 over 3823 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1600 to t1 = 1700
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 217 (100.0 %) now
+- 4040 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 217 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 217 over 217 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4040 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 4040 over 4040 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1700 to t1 = 1800
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 265 (100.0 %) now
+- 4305 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 265 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 265 over 265 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4305 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 4305 over 4305 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1800 to t1 = 1900
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 240 (100.0 %) now
+- 4545 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 240 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 240 over 240 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4545 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 4545 over 4545 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1900 to t1 = 2000
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 187 (100.0 %) now
+- 4732 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 187 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 187 over 187 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4732 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 4732 over 4732 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2000 to t1 = 2100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 216 (100.0 %) now
+- 4948 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 216 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 216 over 216 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4948 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 4948 over 4948 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2100 to t1 = 2200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 209 (100.0 %) now
+- 5157 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 209 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 209 over 209 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 5157 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 5157 over 5157 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2200 to t1 = 2300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 237 (100.0 %) now
+- 5394 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 237 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 237 over 237 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 5394 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 5394 over 5394 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.04
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2300 to t1 = 2400
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 240 (100.0 %) now
+- 5634 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 240 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 240 over 240 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 5634 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 5634 over 5634 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2400 to t1 = 2500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 246 (100.0 %) now
+- 5880 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 246 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 246 over 246 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 5880 have been accepted (100.0 %)
+- 0 have been rejected (0.0 %)
+=> 5880 over 5880 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+
+*** CONFIDENCE INTERVALS ***
+/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/scipy/stats/distributions.py:1504: RuntimeWarning: invalid value encountered in multiply
+  lower_bound = self.a * scale + loc
+/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/scipy/stats/distributions.py:1505: RuntimeWarning: invalid value encountered in multiply
+  upper_bound = self.b * scale + loc
+Desired confidence level is 90.00 %
+Response time confidence interval: (-0.02, 0.04)
+Buffer occupancy confidence interval: (-0.01, 0.01)
+Rejected requests confidence interval: (nan, nan)
+
+
+*** CONFIDENCE INTERVALS ***
+Desired confidence level is 99.00 %
+Response time confidence interval: (-0.03, 0.05)
+Buffer occupancy confidence interval: (-0.01, 0.01)
+Rejected requests confidence interval: (nan, nan)
+
+
+
+*** Init the second queue (Mx/M/1/B) ***
+Insert the buffer capacity (a positive integer value): 10
+Insert the minimum size of a batch (positive integer value): 3
+Insert the maximum size of a batch (positive integer value): 8
+-- Arrivals parameters --
+Exponential PDF
+Insert the rate: 2
+
+-- Service parameters --
+Exponential PDF
+Insert the rate: 10
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 0 to t1 = 100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1243 (100.0 %) now
+- 1243 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 953 have been accepted (76.67 %)
+- 290 have been rejected (23.33 %)
+=> 953 over 953 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.46
+Average number of clients into the server(s): 0.07
+=> Average number of clients into the queue system: 0.53
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.05
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.06 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 100 to t1 = 200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1080 (100.0 %) now
+- 2323 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 884 have been accepted (81.85 %)
+- 196 have been rejected (18.15 %)
+=> 884 over 884 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.11
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.13
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 1837 have been accepted (79.08 %)
+- 486 have been rejected (20.92 %)
+=> 1837 over 1837 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.34
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.4
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 200 to t1 = 300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1357 (100.0 %) now
+- 3680 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 1005 have been accepted (74.06 %)
+- 352 have been rejected (25.94 %)
+=> 1005 over 1005 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.07
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.08
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 2842 have been accepted (77.23 %)
+- 838 have been rejected (22.77 %)
+=> 2842 over 2842 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.3
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.35
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 300 to t1 = 400
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1356 (100.0 %) now
+- 5036 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 962 have been accepted (70.94 %)
+- 394 have been rejected (29.06 %)
+=> 962 over 962 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.06
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.07
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 3804 have been accepted (75.54 %)
+- 1232 have been rejected (24.46 %)
+=> 3804 over 3804 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.28
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.33
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 400 to t1 = 500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1432 (100.0 %) now
+- 6468 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 1041 have been accepted (72.7 %)
+- 391 have been rejected (27.3 %)
+=> 1041 over 1041 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.04
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.05
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 4845 have been accepted (74.91 %)
+- 1623 have been rejected (25.09 %)
+=> 4845 over 4845 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.26
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.31
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 500 to t1 = 600
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1270 (100.0 %) now
+- 7738 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 988 have been accepted (77.8 %)
+- 282 have been rejected (22.2 %)
+=> 988 over 988 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.07
+Average number of clients into the server(s): 0.02
+=> Average number of clients into the queue system: 0.09
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 5833 have been accepted (75.38 %)
+- 1905 have been rejected (24.62 %)
+=> 5833 over 5833 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.29
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.34
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 600 to t1 = 700
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1360 (100.0 %) now
+- 9098 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 998 have been accepted (73.38 %)
+- 362 have been rejected (26.62 %)
+=> 998 over 998 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.0
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.0 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 6831 have been accepted (75.08 %)
+- 2267 have been rejected (24.92 %)
+=> 6831 over 6831 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.25
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.3
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 700 to t1 = 800
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1308 (100.0 %) now
+- 10406 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 961 have been accepted (73.47 %)
+- 347 have been rejected (26.53 %)
+=> 961 over 961 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.08
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.09
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.06
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.07 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 7792 have been accepted (74.88 %)
+- 2614 have been rejected (25.12 %)
+=> 7792 over 7792 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.29
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.35
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 800 to t1 = 900
+At the moment, there are 3 clients in the system (2 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1544 (100.0 %) now
+- 11950 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 1099 have been accepted (71.18 %)
+- 445 have been rejected (28.82 %)
+=> 1096 over 1099 (99.73 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.03
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.04
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 8891 have been accepted (74.4 %)
+- 3059 have been rejected (25.6 %)
+=> 8888 over 8891 (99.97 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.29
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.35
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 900 to t1 = 1000
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1120 (100.0 %) now
+- 13070 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 888 have been accepted (79.29 %)
+- 232 have been rejected (20.71 %)
+=> 891 over 888 (100.34 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.01
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 9779 have been accepted (74.82 %)
+- 3291 have been rejected (25.18 %)
+=> 9779 over 9779 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.28
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.33
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1000 to t1 = 1100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1251 (100.0 %) now
+- 14321 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 967 have been accepted (77.3 %)
+- 284 have been rejected (22.7 %)
+=> 967 over 967 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 10746 have been accepted (75.04 %)
+- 3575 have been rejected (24.96 %)
+=> 10746 over 10746 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.26
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.31
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1100 to t1 = 1200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1579 (100.0 %) now
+- 15900 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 1067 have been accepted (67.57 %)
+- 512 have been rejected (32.43 %)
+=> 1067 over 1067 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.04
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.04
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 11813 have been accepted (74.3 %)
+- 4087 have been rejected (25.7 %)
+=> 11813 over 11813 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.28
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.33
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1200 to t1 = 1300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1192 (100.0 %) now
+- 17092 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 898 have been accepted (75.34 %)
+- 294 have been rejected (24.66 %)
+=> 898 over 898 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 12711 have been accepted (74.37 %)
+- 4381 have been rejected (25.63 %)
+=> 12711 over 12711 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.28
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.33
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1300 to t1 = 1400
+At the moment, there are 8 clients in the system (7 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1378 (100.0 %) now
+- 18470 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 957 have been accepted (69.45 %)
+- 421 have been rejected (30.55 %)
+=> 949 over 957 (99.16 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.05
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.05
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.06
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.07 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 13668 have been accepted (74.0 %)
+- 4802 have been rejected (26.0 %)
+=> 13660 over 13668 (99.94 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.3
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.36
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1400 to t1 = 1500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1135 (100.0 %) now
+- 19605 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 891 have been accepted (78.5 %)
+- 244 have been rejected (21.5 %)
+=> 899 over 891 (100.9 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 14559 have been accepted (74.26 %)
+- 5046 have been rejected (25.74 %)
+=> 14559 over 14559 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.31
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.36
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1500 to t1 = 1600
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1341 (100.0 %) now
+- 20946 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 968 have been accepted (72.18 %)
+- 373 have been rejected (27.82 %)
+=> 968 over 968 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 15527 have been accepted (74.13 %)
+- 5419 have been rejected (25.87 %)
+=> 15527 over 15527 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.31
+Average number of clients into the server(s): 0.05
+=> Average number of clients into the queue system: 0.36
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1600 to t1 = 1700
+At the moment, there are 2 clients in the system (1 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1246 (100.0 %) now
+- 22192 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 914 have been accepted (73.35 %)
+- 332 have been rejected (26.65 %)
+=> 912 over 914 (99.78 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.03
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 16441 have been accepted (74.09 %)
+- 5751 have been rejected (25.91 %)
+=> 16439 over 16441 (99.99 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.31
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.37
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1700 to t1 = 1800
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1288 (100.0 %) now
+- 23480 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 885 have been accepted (68.71 %)
+- 403 have been rejected (31.29 %)
+=> 887 over 885 (100.23 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.05
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.05
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.1
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.11 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 17326 have been accepted (73.79 %)
+- 6154 have been rejected (26.21 %)
+=> 17326 over 17326 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.34
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.4
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1800 to t1 = 1900
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1075 (100.0 %) now
+- 24555 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 851 have been accepted (79.16 %)
+- 224 have been rejected (20.84 %)
+=> 851 over 851 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.01
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 18177 have been accepted (74.03 %)
+- 6378 have been rejected (25.97 %)
+=> 18177 over 18177 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.33
+Average number of clients into the server(s): 0.07
+=> Average number of clients into the queue system: 0.4
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 1900 to t1 = 2000
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1270 (100.0 %) now
+- 25825 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 907 have been accepted (71.42 %)
+- 363 have been rejected (28.58 %)
+=> 907 over 907 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.02
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.05 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 19084 have been accepted (73.9 %)
+- 6741 have been rejected (26.1 %)
+=> 19084 over 19084 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.34
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.4
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2000 to t1 = 2100
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1202 (100.0 %) now
+- 27027 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 938 have been accepted (78.04 %)
+- 264 have been rejected (21.96 %)
+=> 938 over 938 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 20022 have been accepted (74.08 %)
+- 7005 have been rejected (25.92 %)
+=> 20022 over 20022 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.33
+Average number of clients into the server(s): 0.07
+=> Average number of clients into the queue system: 0.4
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2100 to t1 = 2200
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1198 (100.0 %) now
+- 28225 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 960 have been accepted (80.13 %)
+- 238 have been rejected (19.87 %)
+=> 960 over 960 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.01
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.03 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 20982 have been accepted (74.34 %)
+- 7243 have been rejected (25.66 %)
+=> 20982 over 20982 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.33
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.39
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2200 to t1 = 2300
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1231 (100.0 %) now
+- 29456 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 938 have been accepted (76.2 %)
+- 293 have been rejected (23.8 %)
+=> 938 over 938 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.01
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.02
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.02 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 21920 have been accepted (74.42 %)
+- 7536 have been rejected (25.58 %)
+=> 21920 over 21920 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.32
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.38
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2300 to t1 = 2400
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1286 (100.0 %) now
+- 30742 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 949 have been accepted (73.79 %)
+- 337 have been rejected (26.21 %)
+=> 949 over 949 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.0
+Average number of clients into the server(s): 0.0
+=> Average number of clients into the queue system: 0.0
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.01
+- Mean value for the service time, into a server: 0.0 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.01 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 22869 have been accepted (74.39 %)
+- 7873 have been rejected (25.61 %)
+=> 22869 over 22869 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.31
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.37
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 2400 to t1 = 2500
+At the moment, there are 0 clients in the system (0 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1354 (100.0 %) now
+- 32096 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 959 have been accepted (70.83 %)
+- 395 have been rejected (29.17 %)
+=> 959 over 959 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.01
+Average number of clients into the server(s): 0.01
+=> Average number of clients into the queue system: 0.02
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.04
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+-- GLOBAL RESULTS --
+About all the received requests:
+- 23828 have been accepted (74.24 %)
+- 8268 have been rejected (25.76 %)
+=> 23828 over 23828 (100.0 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 0.31
+Average number of clients into the server(s): 0.06
+=> Average number of clients into the queue system: 0.37
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.03
+- Mean value for the service time, into a server: 0.01 (only for served ones)
+- Mean value for the traversing time, into the queue system: 0.04 (only for served ones)
+
+
+*** CONFIDENCE INTERVALS ***
+Desired confidence level is 90.00 %
+Response time confidence interval: (0.00, 0.08)
+Buffer occupancy confidence interval: (-0.02, 0.08)
+Rejected requests confidence interval: (200.24, 464.60)
+
+
+*** CONFIDENCE INTERVALS ***
+Desired confidence level is 99.00 %
+Response time confidence interval: (-0.02, 0.10)
+Buffer occupancy confidence interval: (-0.05, 0.11)
+Rejected requests confidence interval: (115.91, 548.93)
+
+Process finished with exit code 0

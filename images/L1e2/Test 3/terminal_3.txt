@@ -1,0 +1,88 @@
+*** Init the first queue (Mx/M/1/B) ***
+Insert the buffer capacity (a positive integer value): 10
+Insert the minimum size of a batch (positive integer value): 1
+Insert the maximum size of a batch (positive integer value): 3
+-- Arrivals parameters --
+Exponential PDF
+Insert the rate: 3.95
+
+-- Service parameters --
+Exponential PDF
+Insert the rate: 4
+
+
+
+*** Init the second queue (Chain/M/1/B) ***
+Insert the buffer capacity (a positive integer value): 12
+-- Arrivals parameters --
+
+-- Service parameters --
+Exponential PDF
+Insert the rate: 0.4
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 0 to t1 = 100
+At the moment, there are 11 clients in the system (10 in the queuing line)
+
+Requests that have not reached the system:
+- 0 (0.0 %) now
+- 0 (0.0 %) in total
+Received requests:
+- 1630 (100.0 %) now
+- 1630 (100.0 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 685 have been accepted (42.02 %)
+- 945 have been rejected (57.98 %)
+=> 674 over 685 (98.39 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 6.43
+Average number of clients into the server(s): 0.85
+=> Average number of clients into the queue system: 7.28
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 0.93
+- Mean value for the service time, into a server: 0.12 (only for served ones)
+- Mean value for the traversing time, into the queue system: 1.06 (only for served ones)
+
+
+*** QUEUE STATS ***
+Simulation ran from t0 = 0 to t1 = 100
+At the moment, there are 13 clients in the system (12 in the queuing line)
+
+Requests that have not reached the system:
+- 321 (47.63 %) now
+- 321 (47.63 %) in total
+Received requests:
+- 353 (52.37 %) now
+- 353 (52.37 %) in total
+
+-- LOCAL RESULTS --
+About received requests:
+- 51 have been accepted (14.45 %)
+- 302 have been rejected (85.55 %)
+=> 38 over 51 (74.51 %) accepted requests have been served correctly
+
+Average number of clients into the queuing line: 11.35
+Average number of clients into the server(s): 0.97
+=> Average number of clients into the queue system: 12.32
+
+Without considering the client requests still in the queuing line and/or into the server(s): 
+- Mean value for the waiting time, into the queuing line: 23.92
+- Mean value for the service time, into a server: 2.47 (only for served ones)
+- Mean value for the traversing time, into the queue system: 26.26 (only for served ones)
+
+
+*** SYSTEM STATS ***
+Average number of customers into the system: 19.60
+Average number of customers into the queuing lines: 17.78
+Average number of customers into the servers: 1.82
+
+Considering only served requests:
+- Average time spent by a customer into queuing line(s): 3.46
+- Average time spent by a customer into the server(s): 0.38
+=> Average time spent by a customer into the whole system: 3.84
+
+Process finished with exit code 0

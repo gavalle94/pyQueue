@@ -1,0 +1,466 @@
+Customer request #0 does not reach the system
+Customer request #1 does not reach the system
+Customer request #2 does not reach the system
+Customer request #3 does not reach the system
+Customer request #4 does not reach the system
+Customer request #5 does not reach the system
+Customer request #6 does not reach the system
+Customer request #7 does not reach the system
+Customer request #8 arrive at t = 3. There are 0 user(s) in the system, 0 of them in the server(s)
+Customer request #8 has been accepted into the system
+Customer request #9 does not reach the system
+Customer #8 starts to be served at t = 3
+Customer request #10 does not reach the system
+Customer request #11 does not reach the system
+Customer request #12 does not reach the system
+Customer request #13 does not reach the system
+Customer #8 is served at t = 5
+Customer request #14 does not reach the system
+Customer request #15 does not reach the system
+Customer request #16 does not reach the system
+Customer request #17 does not reach the system
+Customer request #18 does not reach the system
+Customer request #19 does not reach the system
+Customer request #20 does not reach the system
+Customer request #21 does not reach the system
+Customer request #22 does not reach the system
+Customer request #23 does not reach the system
+Customer request #24 does not reach the system
+Customer request #25 does not reach the system
+Customer request #26 does not reach the system
+Customer request #27 does not reach the system
+Customer request #28 does not reach the system
+Customer request #29 does not reach the system
+Customer request #30 does not reach the system
+Customer request #31 does not reach the system
+Customer request #32 does not reach the system
+Customer request #33 does not reach the system
+Customer request #34 does not reach the system
+Customer request #35 arrive at t = 8. There are 0 user(s) in the system, 0 of them in the server(s)
+Customer request #35 has been accepted into the system
+Customer request #36 does not reach the system
+Customer #35 starts to be served at t = 8
+Customer request #37 does not reach the system
+Customer request #38 does not reach the system
+Customer request #39 does not reach the system
+Customer request #40 does not reach the system
+Customer request #41 does not reach the system
+Customer #35 is served at t = 11
+Customer request #42 does not reach the system
+Customer request #43 does not reach the system
+Customer request #44 does not reach the system
+Customer request #45 does not reach the system
+Customer request #46 does not reach the system
+Customer request #47 arrive at t = 11. There are 0 user(s) in the system, 0 of them in the server(s)
+Customer request #47 has been accepted into the system
+Customer #47 starts to be served at t = 11
+Customer request #48 does not reach the system
+Customer request #49 does not reach the system
+Customer request #50 does not reach the system
+Customer request #51 does not reach the system
+Customer request #52 does not reach the system
+Customer request #53 does not reach the system
+Customer request #54 does not reach the system
+Customer request #55 does not reach the system
+Customer request #56 does not reach the system
+Customer request #57 arrive at t = 12. There are 1 user(s) in the system, 1 of them in the server(s)
+Customer request #57 has been accepted into the system
+Customer #47 is served at t = 13
+Customer #57 starts to be served at t = 13
+Customer request #58 arrive at t = 13. There are 1 user(s) in the system, 1 of them in the server(s)
+Customer request #58 has been accepted into the system
+Customer request #59 does not reach the system
+Customer request #60 does not reach the system
+Customer request #61 arrive at t = 14. There are 2 user(s) in the system, 1 of them in the server(s)
+Customer request #61 has been accepted into the system
+Customer request #62 does not reach the system
+Customer request #63 does not reach the system
+Customer request #64 does not reach the system
+Customer request #65 arrive at t = 14. There are 3 user(s) in the system, 1 of them in the server(s)
+Customer request #65 has been accepted into the system
+Customer request #66 does not reach the system
+Customer request #67 does not reach the system
+Customer request #68 does not reach the system
+Customer request #69 does not reach the system
+Customer request #70 does not reach the system
+Customer request #71 arrive at t = 15. There are 4 user(s) in the system, 1 of them in the server(s)
+Customer request #71 has been accepted into the system
+Customer request #72 does not reach the system
+Customer request #73 does not reach the system
+Customer request #74 does not reach the system
+Customer request #75 does not reach the system
+Customer #57 is served at t = 17
+Customer #58 starts to be served at t = 17
+Customer request #76 does not reach the system
+Customer request #77 does not reach the system
+Customer request #78 does not reach the system
+Customer request #79 does not reach the system
+Customer request #80 arrive at t = 18. There are 4 user(s) in the system, 1 of them in the server(s)
+Customer request #80 has been accepted into the system
+Customer request #81 arrive at t = 20. There are 5 user(s) in the system, 1 of them in the server(s)
+Customer request #81 has been accepted into the system
+Customer request #82 does not reach the system
+Customer request #83 arrive at t = 20. There are 6 user(s) in the system, 1 of them in the server(s)
+Customer request #83 has been accepted into the system
+Customer request #84 does not reach the system
+Customer request #85 does not reach the system
+Customer request #86 arrive at t = 20. There are 7 user(s) in the system, 1 of them in the server(s)
+Customer request #86 has been accepted into the system
+Customer request #87 does not reach the system
+Customer request #88 does not reach the system
+Customer #58 is served at t = 22
+Customer #61 starts to be served at t = 22
+Customer request #89 does not reach the system
+Customer request #90 does not reach the system
+Customer #61 is served at t = 23
+Customer #65 starts to be served at t = 23
+Customer request #91 does not reach the system
+Customer request #92 does not reach the system
+Customer request #93 does not reach the system
+Customer request #94 arrive at t = 25. There are 6 user(s) in the system, 1 of them in the server(s)
+Customer request #94 has been accepted into the system
+Customer request #95 does not reach the system
+Customer request #96 does not reach the system
+Customer request #97 does not reach the system
+Customer request #98 does not reach the system
+Customer request #99 does not reach the system
+Customer request #100 arrive at t = 26. There are 7 user(s) in the system, 1 of them in the server(s)
+Customer request #100 has been accepted into the system
+Customer request #101 does not reach the system
+Customer request #102 does not reach the system
+Customer request #103 does not reach the system
+Customer request #104 does not reach the system
+Customer request #105 arrive at t = 26. There are 8 user(s) in the system, 1 of them in the server(s)
+Customer request #105 has been accepted into the system
+Customer request #106 does not reach the system
+Customer request #107 does not reach the system
+Customer request #108 does not reach the system
+Customer request #109 does not reach the system
+Customer request #110 does not reach the system
+Customer request #111 does not reach the system
+Customer request #112 arrive at t = 27. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer request #112 has been accepted into the system
+Customer request #113 arrive at t = 27. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #113 has been accepted into the system
+Customer request #114 does not reach the system
+Customer request #115 arrive at t = 28. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #115 has been accepted into the system
+Customer request #116 does not reach the system
+Customer request #117 arrive at t = 28. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #117 has been accepted into the system
+Customer request #118 does not reach the system
+Customer request #119 does not reach the system
+Customer request #120 does not reach the system
+Customer request #121 does not reach the system
+Customer request #122 does not reach the system
+Customer request #123 does not reach the system
+Customer request #124 does not reach the system
+Customer request #125 does not reach the system
+Customer request #126 does not reach the system
+Customer request #127 does not reach the system
+Customer #65 is served at t = 32
+Customer #71 starts to be served at t = 32
+Customer request #128 does not reach the system
+Customer request #129 does not reach the system
+Customer request #130 does not reach the system
+Customer request #131 does not reach the system
+Customer request #132 does not reach the system
+Customer #71 is served at t = 33
+Customer #80 starts to be served at t = 33
+Customer request #133 does not reach the system
+Customer request #134 does not reach the system
+Customer request #135 arrive at t = 33. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #135 has been accepted into the system
+Customer request #136 does not reach the system
+Customer request #137 does not reach the system
+Customer request #138 does not reach the system
+Customer request #139 does not reach the system
+Customer request #140 does not reach the system
+Customer request #141 does not reach the system
+Customer request #142 arrive at t = 33. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #142 has been accepted into the system
+Customer request #143 does not reach the system
+Customer request #144 does not reach the system
+Customer request #145 does not reach the system
+Customer request #146 does not reach the system
+Customer #80 is served at t = 34
+Customer #81 starts to be served at t = 34
+Customer request #147 does not reach the system
+Customer request #148 does not reach the system
+Customer request #149 does not reach the system
+Customer request #150 does not reach the system
+Customer request #151 arrive at t = 37. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #151 has been accepted into the system
+Customer request #152 does not reach the system
+Customer #81 is served at t = 38
+Customer #83 starts to be served at t = 38
+Customer request #153 does not reach the system
+Customer request #154 does not reach the system
+Customer request #155 does not reach the system
+Customer request #156 does not reach the system
+Customer request #157 does not reach the system
+Customer request #158 does not reach the system
+Customer request #159 does not reach the system
+Customer request #160 does not reach the system
+Customer request #161 arrive at t = 40. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #161 has been accepted into the system
+Customer request #162 does not reach the system
+Customer request #163 does not reach the system
+Customer #83 is served at t = 42
+Customer #86 starts to be served at t = 42
+Customer request #164 does not reach the system
+Customer request #165 does not reach the system
+Customer request #166 does not reach the system
+Customer request #167 does not reach the system
+Customer request #168 arrive at t = 43. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #168 has been accepted into the system
+Customer request #169 does not reach the system
+Customer request #170 does not reach the system
+Customer request #171 does not reach the system
+Customer #86 is served at t = 44
+Customer #94 starts to be served at t = 44
+Customer request #172 does not reach the system
+Customer request #173 does not reach the system
+Customer request #174 does not reach the system
+Customer request #175 does not reach the system
+Customer request #176 does not reach the system
+Customer request #177 does not reach the system
+Customer request #178 does not reach the system
+Customer request #179 does not reach the system
+Customer request #180 does not reach the system
+Customer request #181 arrive at t = 46. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #181 has been accepted into the system
+Customer request #182 does not reach the system
+Customer request #183 does not reach the system
+Customer #94 is served at t = 48
+Customer #100 starts to be served at t = 48
+Customer request #184 does not reach the system
+Customer #100 is served at t = 49
+Customer #105 starts to be served at t = 49
+Customer request #185 does not reach the system
+Customer request #186 does not reach the system
+Customer request #187 does not reach the system
+Customer request #188 does not reach the system
+Customer request #189 arrive at t = 49. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #189 has been accepted into the system
+Customer request #190 does not reach the system
+Customer request #191 does not reach the system
+Customer request #192 does not reach the system
+Customer request #193 does not reach the system
+Customer request #194 does not reach the system
+Customer request #195 does not reach the system
+Customer request #196 does not reach the system
+Customer request #197 does not reach the system
+Customer request #198 does not reach the system
+Customer request #199 does not reach the system
+Customer request #200 does not reach the system
+Customer request #201 does not reach the system
+Customer request #202 does not reach the system
+Customer request #203 does not reach the system
+Customer request #204 does not reach the system
+Customer request #205 does not reach the system
+Customer request #206 does not reach the system
+Customer #105 is served at t = 54
+Customer #112 starts to be served at t = 54
+Customer #112 is served at t = 54
+Customer request #207 arrive at t = 54. There are 10 user(s) in the system, 0 of them in the server(s)
+Customer request #207 has been accepted into the system
+Customer #113 starts to be served at t = 54
+Customer request #208 does not reach the system
+Customer request #209 does not reach the system
+Customer request #210 arrive at t = 55. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #210 has been accepted into the system
+Customer request #211 does not reach the system
+Customer request #212 does not reach the system
+Customer request #213 does not reach the system
+Customer request #214 arrive at t = 58. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #214 has been accepted into the system
+Customer request #215 does not reach the system
+Customer request #216 does not reach the system
+Customer request #217 does not reach the system
+Customer request #218 does not reach the system
+Customer request #219 does not reach the system
+Customer request #220 does not reach the system
+Customer request #221 does not reach the system
+Customer request #222 arrive at t = 58. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #222 has been rejected by the system, because the queue is full
+Customer request #223 arrive at t = 58. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #223 has been rejected by the system, because the queue is full
+Customer request #224 does not reach the system
+Customer request #225 does not reach the system
+Customer request #226 does not reach the system
+Customer request #227 does not reach the system
+Customer request #228 does not reach the system
+Customer request #229 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #229 has been rejected by the system, because the queue is full
+Customer request #230 does not reach the system
+Customer request #231 does not reach the system
+Customer request #232 does not reach the system
+Customer request #233 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #233 has been rejected by the system, because the queue is full
+Customer request #234 does not reach the system
+Customer request #235 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #235 has been rejected by the system, because the queue is full
+Customer #113 is served at t = 61
+Customer #115 starts to be served at t = 61
+Customer request #236 does not reach the system
+Customer #115 is served at t = 61
+Customer #117 starts to be served at t = 61
+Customer request #237 does not reach the system
+Customer #117 is served at t = 62
+Customer #135 starts to be served at t = 62
+Customer request #238 arrive at t = 62. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #238 has been accepted into the system
+Customer #135 is served at t = 63
+Customer #142 starts to be served at t = 63
+Customer request #239 does not reach the system
+Customer request #240 does not reach the system
+Customer #142 is served at t = 64
+Customer #151 starts to be served at t = 64
+Customer request #241 does not reach the system
+Customer request #242 does not reach the system
+Customer request #243 does not reach the system
+Customer request #244 does not reach the system
+Customer request #245 does not reach the system
+Customer request #246 does not reach the system
+Customer request #247 does not reach the system
+Customer request #248 does not reach the system
+Customer request #249 does not reach the system
+Customer request #250 does not reach the system
+Customer request #251 does not reach the system
+Customer request #252 does not reach the system
+Customer request #253 does not reach the system
+Customer request #254 does not reach the system
+Customer request #255 does not reach the system
+Customer request #256 does not reach the system
+Customer request #257 does not reach the system
+Customer request #258 arrive at t = 70. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer request #258 has been accepted into the system
+Customer request #259 does not reach the system
+Customer request #260 arrive at t = 70. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #260 has been accepted into the system
+Customer #151 is served at t = 71
+Customer #161 starts to be served at t = 71
+Customer request #261 does not reach the system
+Customer request #262 does not reach the system
+Customer request #263 does not reach the system
+Customer request #264 does not reach the system
+Customer request #265 does not reach the system
+Customer request #266 does not reach the system
+Customer request #267 arrive at t = 73. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #267 has been accepted into the system
+Customer request #268 does not reach the system
+Customer #161 is served at t = 74
+Customer #168 starts to be served at t = 74
+Customer request #269 does not reach the system
+Customer request #270 does not reach the system
+Customer request #271 does not reach the system
+Customer request #272 does not reach the system
+Customer request #273 arrive at t = 74. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #273 has been accepted into the system
+Customer #168 is served at t = 75
+Customer #181 starts to be served at t = 75
+Customer request #274 does not reach the system
+Customer request #275 does not reach the system
+Customer request #276 does not reach the system
+Customer request #277 does not reach the system
+Customer request #278 does not reach the system
+Customer request #279 does not reach the system
+Customer request #280 does not reach the system
+Customer request #281 does not reach the system
+Customer request #282 does not reach the system
+Customer request #283 does not reach the system
+Customer request #284 does not reach the system
+Customer #181 is served at t = 76
+Customer #189 starts to be served at t = 76
+Customer #189 is served at t = 76
+Customer #207 starts to be served at t = 76
+Customer #207 is served at t = 77
+Customer #210 starts to be served at t = 77
+Customer request #285 does not reach the system
+Customer request #286 does not reach the system
+Customer request #287 does not reach the system
+Customer request #288 does not reach the system
+Customer request #289 does not reach the system
+Customer request #290 does not reach the system
+Customer request #291 does not reach the system
+Customer request #292 does not reach the system
+Customer request #293 does not reach the system
+Customer request #294 does not reach the system
+Customer #210 is served at t = 82
+Customer #214 starts to be served at t = 82
+Customer request #295 does not reach the system
+Customer #214 is served at t = 82
+Customer #238 starts to be served at t = 82
+Customer request #296 does not reach the system
+Customer #238 is served at t = 82
+Customer #258 starts to be served at t = 82
+Customer request #297 does not reach the system
+Customer request #298 does not reach the system
+Customer request #299 does not reach the system
+Customer request #300 does not reach the system
+Customer request #301 does not reach the system
+Customer request #302 does not reach the system
+Customer request #303 does not reach the system
+Customer request #304 arrive at t = 82. There are 4 user(s) in the system, 1 of them in the server(s)
+Customer request #304 has been accepted into the system
+Customer request #305 does not reach the system
+Customer #258 is served at t = 83
+Customer #260 starts to be served at t = 83
+Customer request #306 does not reach the system
+Customer #260 is served at t = 83
+Customer #267 starts to be served at t = 83
+Customer request #307 does not reach the system
+Customer request #308 does not reach the system
+Customer request #309 does not reach the system
+Customer request #310 does not reach the system
+Customer #267 is served at t = 86
+Customer #273 starts to be served at t = 86
+Customer request #311 does not reach the system
+Customer request #312 does not reach the system
+Customer request #313 does not reach the system
+Customer request #314 does not reach the system
+Customer request #315 does not reach the system
+Customer #273 is served at t = 90
+Customer #304 starts to be served at t = 90
+Customer request #316 does not reach the system
+Customer request #317 does not reach the system
+Customer request #318 does not reach the system
+Customer request #319 does not reach the system
+Customer request #320 does not reach the system
+Customer request #321 does not reach the system
+Customer request #322 does not reach the system
+Customer request #323 does not reach the system
+Customer request #324 does not reach the system
+Customer request #325 does not reach the system
+Customer request #326 does not reach the system
+Customer request #327 does not reach the system
+Customer #304 is served at t = 94
+Customer request #328 does not reach the system
+Customer request #329 arrive at t = 94. There are 0 user(s) in the system, 0 of them in the server(s)
+Customer request #329 has been accepted into the system
+Customer #329 starts to be served at t = 94
+Customer request #330 arrive at t = 94. There are 1 user(s) in the system, 1 of them in the server(s)
+Customer request #330 has been accepted into the system
+Customer request #331 does not reach the system
+Customer request #332 does not reach the system
+Customer request #333 does not reach the system
+Customer request #334 does not reach the system
+Customer request #335 does not reach the system
+Customer request #336 does not reach the system
+Customer request #337 does not reach the system
+Customer request #338 does not reach the system
+Customer request #339 arrive at t = 95. There are 2 user(s) in the system, 1 of them in the server(s)
+Customer request #339 has been accepted into the system
+Customer request #340 does not reach the system
+Customer request #341 does not reach the system
+Customer request #342 does not reach the system
+Customer request #343 does not reach the system
+Customer #329 is served at t = 98
+Customer #330 starts to be served at t = 98
+Customer request #344 does not reach the system
+Customer request #345 does not reach the system
+Customer request #346 does not reach the system
+Customer request #347 does not reach the system
+Customer #330 is served at t = 99
+Customer #339 starts to be served at t = 99

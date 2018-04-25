@@ -1,0 +1,719 @@
+Customer request #0 arrive at t = 1. There are 0 user(s) in the system, 0 of them in the server(s)
+Customer request #0 has been accepted into the system
+Customer #0 starts to be served at t = 1
+Customer request #1 arrive at t = 1. There are 1 user(s) in the system, 1 of them in the server(s)
+Customer request #1 has been accepted into the system
+Customer request #2 does not reach the system
+Customer request #3 does not reach the system
+Customer request #4 does not reach the system
+Customer request #5 arrive at t = 2. There are 2 user(s) in the system, 1 of them in the server(s)
+Customer request #5 has been accepted into the system
+Customer request #6 does not reach the system
+Customer request #7 does not reach the system
+Customer request #8 arrive at t = 2. There are 3 user(s) in the system, 1 of them in the server(s)
+Customer request #8 has been accepted into the system
+Customer request #9 does not reach the system
+Customer #0 is served at t = 4
+Customer #1 starts to be served at t = 4
+Customer request #10 does not reach the system
+Customer request #11 does not reach the system
+Customer request #12 does not reach the system
+Customer request #13 does not reach the system
+Customer request #14 arrive at t = 4. There are 3 user(s) in the system, 1 of them in the server(s)
+Customer request #14 has been accepted into the system
+Customer #1 is served at t = 5
+Customer #5 starts to be served at t = 5
+Customer request #15 does not reach the system
+Customer request #16 does not reach the system
+Customer request #17 does not reach the system
+Customer #5 is served at t = 6
+Customer #8 starts to be served at t = 6
+Customer request #18 arrive at t = 6. There are 2 user(s) in the system, 1 of them in the server(s)
+Customer request #18 has been accepted into the system
+Customer request #19 does not reach the system
+Customer request #20 arrive at t = 6. There are 3 user(s) in the system, 1 of them in the server(s)
+Customer request #20 has been accepted into the system
+Customer request #21 arrive at t = 6. There are 4 user(s) in the system, 1 of them in the server(s)
+Customer request #21 has been accepted into the system
+Customer request #22 does not reach the system
+Customer request #23 arrive at t = 8. There are 5 user(s) in the system, 1 of them in the server(s)
+Customer request #23 has been accepted into the system
+Customer request #24 arrive at t = 8. There are 6 user(s) in the system, 1 of them in the server(s)
+Customer request #24 has been accepted into the system
+Customer request #25 arrive at t = 8. There are 7 user(s) in the system, 1 of them in the server(s)
+Customer request #25 has been accepted into the system
+Customer request #26 does not reach the system
+Customer request #27 arrive at t = 8. There are 8 user(s) in the system, 1 of them in the server(s)
+Customer request #27 has been accepted into the system
+Customer request #28 arrive at t = 8. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer request #28 has been accepted into the system
+Customer request #29 does not reach the system
+Customer request #30 arrive at t = 9. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #30 has been accepted into the system
+Customer request #31 arrive at t = 9. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #31 has been accepted into the system
+Customer request #32 arrive at t = 9. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #32 has been accepted into the system
+Customer request #33 arrive at t = 11. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #33 has been rejected by the system, because the queue is full
+Customer request #34 does not reach the system
+Customer request #35 arrive at t = 12. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #35 has been rejected by the system, because the queue is full
+Customer request #36 does not reach the system
+Customer request #37 arrive at t = 14. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #37 has been rejected by the system, because the queue is full
+Customer request #38 arrive at t = 14. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #38 has been rejected by the system, because the queue is full
+Customer request #39 arrive at t = 14. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #39 has been rejected by the system, because the queue is full
+Customer request #40 does not reach the system
+Customer request #41 does not reach the system
+Customer request #42 arrive at t = 14. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #42 has been rejected by the system, because the queue is full
+Customer request #43 does not reach the system
+Customer request #44 does not reach the system
+Customer request #45 arrive at t = 15. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #45 has been rejected by the system, because the queue is full
+Customer request #46 arrive at t = 15. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #46 has been rejected by the system, because the queue is full
+Customer request #47 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #47 has been rejected by the system, because the queue is full
+Customer request #48 does not reach the system
+Customer request #49 does not reach the system
+Customer request #50 does not reach the system
+Customer request #51 does not reach the system
+Customer request #52 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #52 has been rejected by the system, because the queue is full
+Customer request #53 does not reach the system
+Customer request #54 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #54 has been rejected by the system, because the queue is full
+Customer request #55 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #55 has been rejected by the system, because the queue is full
+Customer request #56 does not reach the system
+Customer request #57 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #57 has been rejected by the system, because the queue is full
+Customer request #58 arrive at t = 16. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #58 has been rejected by the system, because the queue is full
+Customer request #59 does not reach the system
+Customer #8 is served at t = 17
+Customer #14 starts to be served at t = 17
+Customer #14 is served at t = 17
+Customer #18 starts to be served at t = 17
+Customer request #60 arrive at t = 17. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #60 has been accepted into the system
+Customer request #61 does not reach the system
+Customer request #62 does not reach the system
+Customer request #63 does not reach the system
+Customer request #64 does not reach the system
+Customer request #65 does not reach the system
+Customer request #66 arrive at t = 19. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #66 has been accepted into the system
+Customer request #67 arrive at t = 19. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #67 has been rejected by the system, because the queue is full
+Customer request #68 does not reach the system
+Customer request #69 does not reach the system
+Customer request #70 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #70 has been rejected by the system, because the queue is full
+Customer request #71 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #71 has been rejected by the system, because the queue is full
+Customer request #72 does not reach the system
+Customer request #73 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #73 has been rejected by the system, because the queue is full
+Customer request #74 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #74 has been rejected by the system, because the queue is full
+Customer request #75 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #75 has been rejected by the system, because the queue is full
+Customer request #76 does not reach the system
+Customer request #77 does not reach the system
+Customer request #78 arrive at t = 20. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #78 has been rejected by the system, because the queue is full
+Customer request #79 does not reach the system
+Customer #18 is served at t = 21
+Customer #20 starts to be served at t = 21
+Customer request #80 arrive at t = 21. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #80 has been accepted into the system
+Customer request #81 does not reach the system
+Customer request #82 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #82 has been rejected by the system, because the queue is full
+Customer request #83 does not reach the system
+Customer request #84 does not reach the system
+Customer request #85 does not reach the system
+Customer request #86 does not reach the system
+Customer request #87 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #87 has been rejected by the system, because the queue is full
+Customer request #88 does not reach the system
+Customer request #89 does not reach the system
+Customer request #90 does not reach the system
+Customer request #91 does not reach the system
+Customer request #92 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #92 has been rejected by the system, because the queue is full
+Customer request #93 does not reach the system
+Customer request #94 does not reach the system
+Customer request #95 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #95 has been rejected by the system, because the queue is full
+Customer request #96 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #96 has been rejected by the system, because the queue is full
+Customer request #97 arrive at t = 21. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #97 has been rejected by the system, because the queue is full
+Customer #20 is served at t = 22
+Customer #21 starts to be served at t = 22
+Customer request #98 arrive at t = 22. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #98 has been accepted into the system
+Customer request #99 does not reach the system
+Customer request #100 does not reach the system
+Customer request #101 does not reach the system
+Customer request #102 arrive at t = 22. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #102 has been rejected by the system, because the queue is full
+Customer request #103 does not reach the system
+Customer request #104 arrive at t = 23. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #104 has been rejected by the system, because the queue is full
+Customer request #105 does not reach the system
+Customer request #106 does not reach the system
+Customer request #107 arrive at t = 25. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #107 has been rejected by the system, because the queue is full
+Customer request #108 does not reach the system
+Customer request #109 arrive at t = 25. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #109 has been rejected by the system, because the queue is full
+Customer request #110 does not reach the system
+Customer request #111 does not reach the system
+Customer #21 is served at t = 26
+Customer #23 starts to be served at t = 26
+Customer request #112 arrive at t = 26. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #112 has been accepted into the system
+Customer request #113 arrive at t = 26. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #113 has been rejected by the system, because the queue is full
+Customer request #114 does not reach the system
+Customer request #115 does not reach the system
+Customer request #116 arrive at t = 26. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #116 has been rejected by the system, because the queue is full
+Customer request #117 does not reach the system
+Customer request #118 does not reach the system
+Customer request #119 arrive at t = 27. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #119 has been rejected by the system, because the queue is full
+Customer request #120 does not reach the system
+Customer request #121 arrive at t = 27. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #121 has been rejected by the system, because the queue is full
+Customer request #122 does not reach the system
+Customer request #123 does not reach the system
+Customer request #124 arrive at t = 28. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #124 has been rejected by the system, because the queue is full
+Customer request #125 arrive at t = 29. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #125 has been rejected by the system, because the queue is full
+Customer #23 is served at t = 30
+Customer #24 starts to be served at t = 30
+Customer request #126 does not reach the system
+Customer request #127 does not reach the system
+Customer request #128 arrive at t = 30. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #128 has been accepted into the system
+Customer request #129 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #129 has been rejected by the system, because the queue is full
+Customer request #130 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #130 has been rejected by the system, because the queue is full
+Customer request #131 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #131 has been rejected by the system, because the queue is full
+Customer request #132 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #132 has been rejected by the system, because the queue is full
+Customer request #133 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #133 has been rejected by the system, because the queue is full
+Customer request #134 does not reach the system
+Customer request #135 does not reach the system
+Customer request #136 does not reach the system
+Customer request #137 arrive at t = 30. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #137 has been rejected by the system, because the queue is full
+Customer request #138 does not reach the system
+Customer #24 is served at t = 31
+Customer #25 starts to be served at t = 31
+Customer #25 is served at t = 31
+Customer #27 starts to be served at t = 31
+Customer #27 is served at t = 31
+Customer request #139 arrive at t = 31. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #139 has been accepted into the system
+Customer #28 starts to be served at t = 31
+Customer #28 is served at t = 31
+Customer request #140 arrive at t = 31. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #140 has been accepted into the system
+Customer #30 starts to be served at t = 31
+Customer request #141 arrive at t = 32. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #141 has been accepted into the system
+Customer request #142 does not reach the system
+Customer request #143 does not reach the system
+Customer request #144 does not reach the system
+Customer request #145 arrive at t = 34. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #145 has been accepted into the system
+Customer #30 is served at t = 35
+Customer #31 starts to be served at t = 35
+Customer #31 is served at t = 35
+Customer #32 starts to be served at t = 35
+Customer #32 is served at t = 36
+Customer #60 starts to be served at t = 36
+Customer #60 is served at t = 36
+Customer #66 starts to be served at t = 36
+Customer request #146 arrive at t = 36. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer #66 is served at t = 36
+Customer request #146 has been accepted into the system
+Customer request #147 does not reach the system
+Customer #80 starts to be served at t = 36
+Customer request #148 does not reach the system
+Customer request #149 arrive at t = 37. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer request #149 has been accepted into the system
+Customer request #150 does not reach the system
+Customer request #151 does not reach the system
+Customer #80 is served at t = 38
+Customer #98 starts to be served at t = 38
+Customer request #152 arrive at t = 38. There are 9 user(s) in the system, 1 of them in the server(s)
+Customer request #152 has been accepted into the system
+Customer request #153 does not reach the system
+Customer request #154 does not reach the system
+Customer request #155 does not reach the system
+Customer request #156 arrive at t = 38. There are 10 user(s) in the system, 1 of them in the server(s)
+Customer request #156 has been accepted into the system
+Customer request #157 does not reach the system
+Customer request #158 arrive at t = 38. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #158 has been accepted into the system
+Customer request #159 does not reach the system
+Customer request #160 arrive at t = 38. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #160 has been accepted into the system
+Customer request #161 arrive at t = 38. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #161 has been rejected by the system, because the queue is full
+Customer request #162 arrive at t = 38. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #162 has been rejected by the system, because the queue is full
+Customer #98 is served at t = 39
+Customer #112 starts to be served at t = 39
+Customer request #163 does not reach the system
+Customer #112 is served at t = 39
+Customer #128 starts to be served at t = 39
+Customer request #164 does not reach the system
+Customer request #165 does not reach the system
+Customer request #166 does not reach the system
+Customer request #167 arrive at t = 39. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #167 has been accepted into the system
+Customer request #168 arrive at t = 39. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #168 has been accepted into the system
+Customer #128 is served at t = 40
+Customer #139 starts to be served at t = 40
+Customer #139 is served at t = 40
+Customer request #169 does not reach the system
+Customer #140 starts to be served at t = 40
+Customer request #170 arrive at t = 41. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #170 has been accepted into the system
+Customer request #171 arrive at t = 41. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #171 has been accepted into the system
+Customer request #172 arrive at t = 42. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #172 has been rejected by the system, because the queue is full
+Customer request #173 arrive at t = 42. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #173 has been rejected by the system, because the queue is full
+Customer request #174 does not reach the system
+Customer request #175 does not reach the system
+Customer request #176 does not reach the system
+Customer request #177 does not reach the system
+Customer request #178 arrive at t = 42. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #178 has been rejected by the system, because the queue is full
+Customer request #179 arrive at t = 42. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #179 has been rejected by the system, because the queue is full
+Customer request #180 arrive at t = 43. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #180 has been rejected by the system, because the queue is full
+Customer #140 is served at t = 44
+Customer #141 starts to be served at t = 44
+Customer request #181 does not reach the system
+Customer request #182 does not reach the system
+Customer request #183 does not reach the system
+Customer request #184 does not reach the system
+Customer #141 is served at t = 45
+Customer #145 starts to be served at t = 45
+Customer request #185 does not reach the system
+Customer request #186 arrive at t = 45. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #186 has been accepted into the system
+Customer #145 is served at t = 46
+Customer #146 starts to be served at t = 46
+Customer #146 is served at t = 46
+Customer request #187 arrive at t = 46. There are 10 user(s) in the system, 0 of them in the server(s)
+Customer request #187 has been accepted into the system
+Customer #149 starts to be served at t = 46
+Customer request #188 arrive at t = 46. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #188 has been accepted into the system
+Customer request #189 arrive at t = 46. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #189 has been accepted into the system
+Customer request #190 arrive at t = 47. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #190 has been rejected by the system, because the queue is full
+Customer request #191 arrive at t = 47. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #191 has been rejected by the system, because the queue is full
+Customer request #192 arrive at t = 47. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #192 has been rejected by the system, because the queue is full
+Customer request #193 does not reach the system
+Customer request #194 does not reach the system
+Customer request #195 does not reach the system
+Customer request #196 does not reach the system
+Customer request #197 does not reach the system
+Customer request #198 does not reach the system
+Customer request #199 arrive at t = 48. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #199 has been rejected by the system, because the queue is full
+Customer request #200 does not reach the system
+Customer request #201 arrive at t = 49. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #201 has been rejected by the system, because the queue is full
+Customer request #202 does not reach the system
+Customer request #203 does not reach the system
+Customer request #204 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #204 has been rejected by the system, because the queue is full
+Customer request #205 does not reach the system
+Customer request #206 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #206 has been rejected by the system, because the queue is full
+Customer request #207 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #207 has been rejected by the system, because the queue is full
+Customer request #208 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #208 has been rejected by the system, because the queue is full
+Customer request #209 does not reach the system
+Customer request #210 does not reach the system
+Customer request #211 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #211 has been rejected by the system, because the queue is full
+Customer request #212 does not reach the system
+Customer request #213 arrive at t = 50. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #213 has been rejected by the system, because the queue is full
+Customer request #214 arrive at t = 51. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #214 has been rejected by the system, because the queue is full
+Customer request #215 does not reach the system
+Customer request #216 does not reach the system
+Customer request #217 does not reach the system
+Customer request #218 arrive at t = 51. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #218 has been rejected by the system, because the queue is full
+Customer #149 is served at t = 52
+Customer #152 starts to be served at t = 52
+Customer request #219 does not reach the system
+Customer #152 is served at t = 53
+Customer #156 starts to be served at t = 53
+Customer request #220 arrive at t = 53. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #220 has been accepted into the system
+Customer request #221 arrive at t = 53. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #221 has been accepted into the system
+Customer request #222 arrive at t = 53. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #222 has been rejected by the system, because the queue is full
+Customer request #223 does not reach the system
+Customer request #224 arrive at t = 53. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #224 has been rejected by the system, because the queue is full
+Customer request #225 does not reach the system
+Customer request #226 does not reach the system
+Customer request #227 does not reach the system
+Customer request #228 does not reach the system
+Customer request #229 does not reach the system
+Customer request #230 arrive at t = 54. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #230 has been rejected by the system, because the queue is full
+Customer request #231 arrive at t = 54. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #231 has been rejected by the system, because the queue is full
+Customer request #232 does not reach the system
+Customer request #233 does not reach the system
+Customer request #234 does not reach the system
+Customer request #235 arrive at t = 55. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #235 has been rejected by the system, because the queue is full
+Customer request #236 arrive at t = 55. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #236 has been rejected by the system, because the queue is full
+Customer request #237 arrive at t = 55. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #237 has been rejected by the system, because the queue is full
+Customer request #238 does not reach the system
+Customer request #239 arrive at t = 55. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #239 has been rejected by the system, because the queue is full
+Customer request #240 arrive at t = 56. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #240 has been rejected by the system, because the queue is full
+Customer request #241 arrive at t = 56. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #241 has been rejected by the system, because the queue is full
+Customer request #242 does not reach the system
+Customer request #243 arrive at t = 57. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #243 has been rejected by the system, because the queue is full
+Customer request #244 arrive at t = 57. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #244 has been rejected by the system, because the queue is full
+Customer request #245 arrive at t = 57. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #245 has been rejected by the system, because the queue is full
+Customer request #246 does not reach the system
+Customer request #247 does not reach the system
+Customer request #248 does not reach the system
+Customer request #249 does not reach the system
+Customer request #250 does not reach the system
+Customer request #251 arrive at t = 58. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #251 has been rejected by the system, because the queue is full
+Customer request #252 arrive at t = 58. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #252 has been rejected by the system, because the queue is full
+Customer request #253 arrive at t = 58. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #253 has been rejected by the system, because the queue is full
+Customer request #254 arrive at t = 59. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #254 has been rejected by the system, because the queue is full
+Customer request #255 arrive at t = 59. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #255 has been rejected by the system, because the queue is full
+Customer request #256 does not reach the system
+Customer request #257 does not reach the system
+Customer request #258 does not reach the system
+Customer request #259 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #259 has been rejected by the system, because the queue is full
+Customer request #260 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #260 has been rejected by the system, because the queue is full
+Customer request #261 does not reach the system
+Customer request #262 does not reach the system
+Customer request #263 arrive at t = 60. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #263 has been rejected by the system, because the queue is full
+Customer #156 is served at t = 61
+Customer #158 starts to be served at t = 61
+Customer request #264 arrive at t = 61. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #264 has been accepted into the system
+Customer request #265 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #265 has been rejected by the system, because the queue is full
+Customer request #266 does not reach the system
+Customer request #267 does not reach the system
+Customer request #268 does not reach the system
+Customer request #269 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #269 has been rejected by the system, because the queue is full
+Customer request #270 does not reach the system
+Customer request #271 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #271 has been rejected by the system, because the queue is full
+Customer request #272 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #272 has been rejected by the system, because the queue is full
+Customer request #273 does not reach the system
+Customer request #274 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #274 has been rejected by the system, because the queue is full
+Customer request #275 does not reach the system
+Customer request #276 does not reach the system
+Customer request #277 arrive at t = 62. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #277 has been rejected by the system, because the queue is full
+Customer request #278 does not reach the system
+Customer request #279 arrive at t = 63. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #279 has been rejected by the system, because the queue is full
+Customer request #280 arrive at t = 63. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #280 has been rejected by the system, because the queue is full
+Customer request #281 does not reach the system
+Customer request #282 does not reach the system
+Customer request #283 does not reach the system
+Customer request #284 arrive at t = 65. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #284 has been rejected by the system, because the queue is full
+Customer request #285 arrive at t = 67. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #285 has been rejected by the system, because the queue is full
+Customer #158 is served at t = 68
+Customer #160 starts to be served at t = 68
+Customer request #286 does not reach the system
+Customer request #287 arrive at t = 68. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #287 has been accepted into the system
+Customer request #288 arrive at t = 68. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #288 has been rejected by the system, because the queue is full
+Customer request #289 does not reach the system
+Customer request #290 does not reach the system
+Customer request #291 arrive at t = 68. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #291 has been rejected by the system, because the queue is full
+Customer request #292 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #292 has been rejected by the system, because the queue is full
+Customer request #293 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #293 has been rejected by the system, because the queue is full
+Customer request #294 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #294 has been rejected by the system, because the queue is full
+Customer request #295 does not reach the system
+Customer request #296 does not reach the system
+Customer request #297 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #297 has been rejected by the system, because the queue is full
+Customer request #298 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #298 has been rejected by the system, because the queue is full
+Customer request #299 arrive at t = 69. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #299 has been rejected by the system, because the queue is full
+Customer request #300 does not reach the system
+Customer request #301 arrive at t = 70. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #301 has been rejected by the system, because the queue is full
+Customer request #302 arrive at t = 70. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #302 has been rejected by the system, because the queue is full
+Customer #160 is served at t = 71
+Customer #167 starts to be served at t = 71
+Customer request #303 arrive at t = 71. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #303 has been accepted into the system
+Customer request #304 arrive at t = 71. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #304 has been rejected by the system, because the queue is full
+Customer request #305 arrive at t = 71. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #305 has been rejected by the system, because the queue is full
+Customer request #306 does not reach the system
+Customer #167 is served at t = 72
+Customer #168 starts to be served at t = 72
+Customer request #307 does not reach the system
+Customer #168 is served at t = 72
+Customer #170 starts to be served at t = 72
+Customer request #308 arrive at t = 72. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #308 has been accepted into the system
+Customer request #309 arrive at t = 73. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #309 has been accepted into the system
+Customer request #310 does not reach the system
+Customer request #311 arrive at t = 74. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #311 has been rejected by the system, because the queue is full
+Customer request #312 arrive at t = 74. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #312 has been rejected by the system, because the queue is full
+Customer request #313 arrive at t = 74. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #313 has been rejected by the system, because the queue is full
+Customer request #314 arrive at t = 75. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #314 has been rejected by the system, because the queue is full
+Customer #170 is served at t = 76
+Customer #171 starts to be served at t = 76
+Customer request #315 does not reach the system
+Customer request #316 arrive at t = 76. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #316 has been accepted into the system
+Customer request #317 does not reach the system
+Customer request #318 arrive at t = 76. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #318 has been rejected by the system, because the queue is full
+Customer request #319 does not reach the system
+Customer request #320 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #320 has been rejected by the system, because the queue is full
+Customer request #321 does not reach the system
+Customer request #322 does not reach the system
+Customer request #323 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #323 has been rejected by the system, because the queue is full
+Customer request #324 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #324 has been rejected by the system, because the queue is full
+Customer request #325 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #325 has been rejected by the system, because the queue is full
+Customer request #326 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #326 has been rejected by the system, because the queue is full
+Customer request #327 does not reach the system
+Customer request #328 does not reach the system
+Customer request #329 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #329 has been rejected by the system, because the queue is full
+Customer request #330 does not reach the system
+Customer request #331 arrive at t = 77. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #331 has been rejected by the system, because the queue is full
+Customer request #332 does not reach the system
+Customer #171 is served at t = 79
+Customer #186 starts to be served at t = 79
+Customer request #333 does not reach the system
+Customer request #334 does not reach the system
+Customer request #335 does not reach the system
+Customer request #336 arrive at t = 80. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #336 has been accepted into the system
+Customer request #337 arrive at t = 80. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #337 has been rejected by the system, because the queue is full
+Customer request #338 arrive at t = 81. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #338 has been rejected by the system, because the queue is full
+Customer request #339 does not reach the system
+Customer request #340 arrive at t = 83. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #340 has been rejected by the system, because the queue is full
+Customer request #341 does not reach the system
+Customer request #342 does not reach the system
+Customer #186 is served at t = 84
+Customer #187 starts to be served at t = 84
+Customer #187 is served at t = 84
+Customer request #343 does not reach the system
+Customer #188 starts to be served at t = 84
+Customer request #344 does not reach the system
+Customer request #345 does not reach the system
+Customer request #346 does not reach the system
+Customer request #347 does not reach the system
+Customer request #348 arrive at t = 86. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #348 has been accepted into the system
+Customer #188 is served at t = 87
+Customer #189 starts to be served at t = 87
+Customer #189 is served at t = 87
+Customer request #349 arrive at t = 87. There are 10 user(s) in the system, 0 of them in the server(s)
+Customer request #349 has been accepted into the system
+Customer #220 starts to be served at t = 87
+Customer request #350 does not reach the system
+Customer request #351 does not reach the system
+Customer request #352 arrive at t = 87. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #352 has been accepted into the system
+Customer request #353 does not reach the system
+Customer request #354 arrive at t = 87. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #354 has been accepted into the system
+Customer request #355 arrive at t = 87. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #355 has been rejected by the system, because the queue is full
+Customer request #356 does not reach the system
+Customer request #357 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #357 has been rejected by the system, because the queue is full
+Customer request #358 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #358 has been rejected by the system, because the queue is full
+Customer request #359 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #359 has been rejected by the system, because the queue is full
+Customer request #360 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #360 has been rejected by the system, because the queue is full
+Customer request #361 does not reach the system
+Customer request #362 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #362 has been rejected by the system, because the queue is full
+Customer request #363 does not reach the system
+Customer request #364 arrive at t = 88. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #364 has been rejected by the system, because the queue is full
+Customer request #365 does not reach the system
+Customer request #366 does not reach the system
+Customer request #367 does not reach the system
+Customer request #368 does not reach the system
+Customer request #369 arrive at t = 89. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #369 has been rejected by the system, because the queue is full
+Customer request #370 arrive at t = 89. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #370 has been rejected by the system, because the queue is full
+Customer request #371 does not reach the system
+Customer #220 is served at t = 90
+Customer #221 starts to be served at t = 90
+Customer request #372 arrive at t = 90. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #372 has been accepted into the system
+Customer request #373 arrive at t = 90. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #373 has been rejected by the system, because the queue is full
+Customer request #374 arrive at t = 90. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #374 has been rejected by the system, because the queue is full
+Customer request #375 does not reach the system
+Customer request #376 arrive at t = 90. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #376 has been rejected by the system, because the queue is full
+Customer request #377 does not reach the system
+Customer request #378 does not reach the system
+Customer request #379 does not reach the system
+Customer request #380 does not reach the system
+Customer #221 is served at t = 91
+Customer #264 starts to be served at t = 91
+Customer request #381 does not reach the system
+Customer request #382 arrive at t = 91. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #382 has been accepted into the system
+Customer request #383 arrive at t = 91. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #383 has been rejected by the system, because the queue is full
+Customer request #384 does not reach the system
+Customer request #385 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #385 has been rejected by the system, because the queue is full
+Customer request #386 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #386 has been rejected by the system, because the queue is full
+Customer request #387 does not reach the system
+Customer request #388 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #388 has been rejected by the system, because the queue is full
+Customer request #389 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #389 has been rejected by the system, because the queue is full
+Customer request #390 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #390 has been rejected by the system, because the queue is full
+Customer request #391 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #391 has been rejected by the system, because the queue is full
+Customer request #392 arrive at t = 93. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #392 has been rejected by the system, because the queue is full
+Customer request #393 arrive at t = 94. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #393 has been rejected by the system, because the queue is full
+Customer request #394 does not reach the system
+Customer #264 is served at t = 96
+Customer #287 starts to be served at t = 96
+Customer request #395 does not reach the system
+Customer request #396 does not reach the system
+Customer request #397 arrive at t = 96. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #397 has been accepted into the system
+Customer request #398 arrive at t = 96. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #398 has been rejected by the system, because the queue is full
+Customer request #399 does not reach the system
+Customer request #400 arrive at t = 96. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #400 has been rejected by the system, because the queue is full
+Customer request #401 arrive at t = 96. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #401 has been rejected by the system, because the queue is full
+Customer request #402 arrive at t = 96. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #402 has been rejected by the system, because the queue is full
+Customer request #403 arrive at t = 96. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #403 has been rejected by the system, because the queue is full
+Customer request #404 arrive at t = 97. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #404 has been rejected by the system, because the queue is full
+Customer request #405 does not reach the system
+Customer request #406 arrive at t = 98. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #406 has been rejected by the system, because the queue is full
+Customer request #407 does not reach the system
+Customer request #408 does not reach the system
+Customer request #409 arrive at t = 98. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #409 has been rejected by the system, because the queue is full
+Customer request #410 does not reach the system
+Customer request #411 arrive at t = 98. There are 13 user(s) in the system, 1 of them in the server(s)
+Customer request #411 has been rejected by the system, because the queue is full
+Customer request #412 does not reach the system
+Customer request #413 does not reach the system
+Customer request #414 does not reach the system
+Customer #287 is served at t = 99
+Customer #303 starts to be served at t = 99
+Customer request #415 does not reach the system
+Customer #303 is served at t = 99
+Customer #308 starts to be served at t = 99
+Customer request #416 does not reach the system
+Customer request #417 arrive at t = 99. There are 11 user(s) in the system, 1 of them in the server(s)
+Customer request #417 has been accepted into the system
+Customer request #418 arrive at t = 99. There are 12 user(s) in the system, 1 of them in the server(s)
+Customer request #418 has been accepted into the system
