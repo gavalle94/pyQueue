@@ -1,7 +1,6 @@
 # pyQueue
 A (multi-)queue system simulator, realized in Python using the simpy library
-<br><br><img src="images/logo.png"><br>
-<hr>
+<br><br><img src="images/logo.png"><br><br>
 
 ## How does it work
 ...
